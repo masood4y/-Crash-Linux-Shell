@@ -1,5 +1,7 @@
-# -Crash-Linux-Shell
+# Crash Linux Shell
 (Detailed Breakdown on my Portfolio)
+
+Shells play a pivotal role in enabling users to initiate new processes by entering commands along with their respective arguments. Additionally, they are responsible for capturing various signals, such as keyboard interrupts, and effectively redirecting them to the relevant processes.
 
 I undertook the task of constructing a small shell known as "Crash," which served as a simplified version of the familiar Linux shell.
 
