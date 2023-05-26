@@ -1,5 +1,5 @@
 # -Crash-Linux-Shell
-THE DETAILED BREAKDOWN IS ON MY PORTFOLIO
+(Detailed Breakdown on my Portfolio)
 
 I undertook the task of constructing a small shell known as "Crash," which served as a simplified version of the familiar Linux shell.
 
